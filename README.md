@@ -1,4 +1,3 @@
-#depozit-cu-baza-de-date
   Această aplicație Java este un sistem de gestiune care permite adăugarea, modificarea și ștergerea clienților și produselor, precum și plasarea comenzilor și generarea automată a facturilor. Aplicația este dezvoltată folosind principii OOP și o arhitectură modulară, incluzând un sistem de validare a datelor și interacțiune cu o bază de date.
 Funcționalități principale
 
